@@ -12,11 +12,11 @@ SmartBite is an **AI-powered food waste reduction platform** that helps grocery 
 ---
 
 ## **Inspiration**
-Food waste and food insecurity are two sides of the same problem. While **23.5 million people in the U.S. live in food deserts**, grocery stores discard **millions of pounds of unsold food** every year.  
+Food waste and food insecurity are two sides of the same problem. While 23.5 million people in the U.S. live in food deserts, grocery stores discard millions of pounds of unsold food every year. This disconnect is extremely concerning and we felt that this wasted food could be put to use.
 
-Our team saw an opportunity to **bridge this gap** by using AI and automation to **redirect surplus food to people who need it most**.  
+Our team saw an opportunity to bridge this gap as well as help our communities by using AI and automation to redirect surplus food to people who need it most.  
 
-SmartBite isn’t just about saving money—it’s about **solving a real-world problem with technology**.  
+SmartBite isn’t just about saving money—it’s about solving a pressing real-world problem with technology.  
 
 ---
 
