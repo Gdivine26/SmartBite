@@ -118,7 +118,8 @@ Check out our **pitch deck** for a deeper dive into **SmartBite’s features and
 ---
 
 ## **Future Plans**
-🚀 **Expand into more food deserts** by increasing grocery store partnerships.  
-📈 **Enhance the AI chatbot** with deeper meal customization.  
-💡 **Develop a physical food bank model** to complement our digital approach.  
-🔗 **Partner with delivery platforms** to bring fresh food directly to users.  
+ **Turn our AI chatbot into a full LLM** using OpenAI API.
+ **Expand into more food deserts** by increasing grocery store partnerships.  
+ **Enhance the AI chatbot** with deeper meal customization.  
+ **Develop a physical food bank model** to complement our digital approach.  
+ **Partner with delivery platforms** to bring fresh food directly to users.  
