@@ -37,7 +37,7 @@ We divided SmartBite into **three key components**:
 ### **3. Real-Time Notification System (Telegram Bot, Gmail, SMS)**
 - **Telegram Bot API (Active & Live!)** – Notifies users about discounts, food availability, and meal suggestions.  
 - **Gmail API** – Sends email notifications when a price drops or food is nearing expiration.  
-- **SMS Notifications (Premium Feature)** – Users can opt-in for text alerts via **Twilio API**.  
+- **SMS Notifications** – Users can opt-in for text alerts via **Twilio API**.  
 
 ---
 
